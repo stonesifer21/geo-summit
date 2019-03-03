@@ -1,0 +1,274 @@
+{
+    "beers-and-hobbies-people": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "personID": {
+                        "S": "101"
+                    },
+                    "location": {
+                        "S": "40.276045, -76.882317"
+                    },
+                    "zipcode": {
+                        "S": "17101"
+                    },                   
+                    "city": {
+                        "S": "Harrisburg"
+                    },
+                    "name": {
+                        "S": "Veronica Lilly"
+                    },
+                    "gender": {
+                        "S": "F"
+                    },                  
+                    "hobbies": {
+                        "S": "Golf"
+                    }
+                }
+            }
+        },
+		{
+	   "PutRequest": {
+                "Item": {
+                    "personID": {
+                        "S": "102"
+                    },
+                    "location": {
+                        "S": "40.266954, -76.889654"
+                    },
+                    "zipcode": {
+                        "S": "17102"
+                    },                   
+                    "city": {
+                        "S": "Harrisburg"
+                    },
+                    "name": {
+                        "S": "Susan Ward"
+                    },
+                    "gender": {
+                        "S": "F"
+                    },                  
+                    "hobbies": {
+                        "S": "Tennis"
+                    }
+                }
+            }
+        },
+		{
+	   "PutRequest": {
+                "Item": {
+                    "personID": {
+                        "S": "103"
+                    },
+                    "location": {
+                        "S": "40.267658, -76.888946"
+                    },
+                    "zipcode": {
+                        "S": "17102"
+                    },                   
+                    "city": {
+                        "S": "Harrisburg"
+                    },
+                    "name": {
+                        "S": "Lisa Miller"
+                    },
+                    "gender": {
+                        "S": "F"
+                    },                  
+                    "hobbies": {
+                        "S": "Crossfit"
+                    }
+                }
+            }
+        },
+		{
+	   "PutRequest": {
+                "Item": {
+                    "personID": {
+                        "S": "104"
+                    },
+                    "location": {
+                        "S": "40.271500, -76.887157"
+                    },
+                    "zipcode": {
+                        "S": "17102"
+                    },                   
+                    "city": {
+                        "S": "Harrisburg"
+                    },
+                    "name": {
+                        "S": "Janet Dillon"
+                    },
+                    "gender": {
+                        "S": "F"
+                    },                  
+                    "hobbies": {
+                        "S": "Crossfit"
+                    }
+                }
+            }
+        },
+		{
+	   "PutRequest": {
+                "Item": {
+                    "personID": {
+                        "S": "105"
+                    },
+                    "location": {
+                        "S": "40.273866, -76.886181"
+                    },
+                    "zipcode": {
+                        "S": "17102"
+                    },                   
+                    "city": {
+                        "S": "Harrisburg"
+                    },
+                    "name": {
+                        "S": "Melissa Fuller"
+                    },
+                    "gender": {
+                        "S": "F"
+                    },                  
+                    "hobbies": {
+                        "S": "Horses"
+                    }
+                }
+            }
+        },
+		{
+	   "PutRequest": {
+                "Item": {
+                    "personID": {
+                        "S": "106"
+                    },
+                    "location": {
+                        "S": "40.276911, -76.887168"
+                    },
+                    "zipcode": {
+                        "S": "17102"
+                    },                   
+                    "city": {
+                        "S": "Harrisburg"
+                    },
+                    "name": {
+                        "S": "Melissa Fuller"
+                    },
+                    "gender": {
+                        "S": "F"
+                    },                  
+                    "hobbies": {
+                        "S": "Eagles"
+                    }
+                }
+            }
+        },
+			{
+	   "PutRequest": {
+                "Item": {
+                    "personID": {
+                        "S": "107"
+                    },
+                    "location": {
+                        "S": "40.262192, -76.880317"
+                    },
+                    "zipcode": {
+                        "S": "17102"
+                    },                   
+                    "city": {
+                        "S": "Harrisburg"
+                    },
+                    "name": {
+                        "S": "Samantha Lip"
+                    },
+                    "gender": {
+                        "S": "F"
+                    },                  
+                    "hobbies": {
+                        "S": "Yoga"
+                    }
+                }
+            }
+        },
+		{
+	   "PutRequest": {
+                "Item": {
+                    "personID": {
+                        "S": "108"
+                    },
+                    "location": {
+                        "S": "40.238137, -76.926482"
+                    },
+                    "zipcode": {
+                        "S": "17011"
+                    },                   
+                    "city": {
+                        "S": "Camp Hill"
+                    },
+                    "name": {
+                        "S": "Cathy McCmillian"
+                    },
+                    "gender": {
+                        "S": "F"
+                    },                  
+                    "hobbies": {
+                        "S": "Yoga"
+                    }
+                }
+            }
+        },
+		{
+	   "PutRequest": {
+                "Item": {
+                    "personID": {
+                        "S": "109"
+                    },
+                    "location": {
+                        "S": "40.183445, -76.921941"
+                    },
+                    "zipcode": {
+                        "S": "17011"
+                    },                   
+                    "city": {
+                        "S": "Lewisberry"
+                    },
+                    "name": {
+                        "S": "Nancy Paulson"
+                    },
+                    "gender": {
+                        "S": "F"
+                    },                  
+                    "hobbies": {
+                        "S": "Golf"
+                    }
+                }
+            }
+        },
+		{
+	   "PutRequest": {
+                "Item": {
+                    "personID": {
+                        "S": "110"
+                    },
+                    "location": {
+                        "S": "39.329560, -76.597420"
+                    },
+                    "zipcode": {
+                        "S": "21218"
+                    },                   
+                    "city": {
+                        "S": "Baltimore"
+                    },
+                    "name": {
+                        "S": "Kristyn Rank"
+                    },
+                    "gender": {
+                        "S": "F"
+                    },                  
+                    "hobbies": {
+                        "S": "Golf"
+                    }
+                }
+            }
+        }
+	]
+}
